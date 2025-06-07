@@ -1,12 +1,20 @@
 Htoo Myat Aung
+
 Web Developer
 
-Description : An 18 years old who has unlimited compassion in Web development,
+Born in 2006 on September 2nd
+
+An 18 years old who has unlimited compassion in Web development,
 and LLM fields.
 
-Education : Attended till 7th grade at Yankin TTC in 2020 \
+Joined the full-stack class at Code Lab and was accepted OJT or On-job training.
+
+Also attened a Python beginner class from Simbolo.
+
+Attended till 7th grade at Yankin TTC in 2020 \
 Joined the secondary 2 at ConceptX in 2023 \
 Became a GED graduate in 2024 May with overall 650 marks \
 Took IELTS exam and passed with overall Band 7.
+Concentrating in Software Engineering at Mae Fah Luang University in Thailand, Chiang Rai.
 
-Language Proficiency : English C1, Japanese N3, German A1
+English C1, Japanese N3, German A1
